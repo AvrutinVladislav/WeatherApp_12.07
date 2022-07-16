@@ -1,8 +1,5 @@
-package com.example.weather_app.model
+package com.example.weatherapp.data.repository.model
 
-import com.squareup.moshi.JsonClass
-
-@JsonClass(generateAdapter = true)
 data class Day(
     val avghumidity: Double,
     val avgtemp_c: Double,

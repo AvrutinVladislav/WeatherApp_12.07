@@ -8,8 +8,6 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.weatherapp.R
-import com.example.weatherapp.data.Retrofit
-import com.example.weatherapp.databinding.FragmentHoursBinding
 
 
 class HoursFragment : Fragment() {

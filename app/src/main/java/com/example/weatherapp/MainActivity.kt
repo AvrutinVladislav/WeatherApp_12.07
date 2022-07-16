@@ -4,7 +4,6 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProvider
 import com.example.weather_app.fragments.MainFragment
-import com.example.weatherapp.data.Retrofit
 import com.example.weatherapp.data.repository.Repository
 
 class MainActivity : AppCompatActivity() {

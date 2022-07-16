@@ -1,8 +1,5 @@
-package com.example.weather_app.model
+package com.example.weatherapp.data.repository.model
 
-import com.squareup.moshi.JsonClass
-
-@JsonClass(generateAdapter = true)
 data class Location(
     val country: String,
     val lat: Double,
